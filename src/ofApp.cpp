@@ -7,6 +7,8 @@ void ofApp::setup(){
 	gui.setup("settings");
 	
 	
+	
+	
 	// opencv ..........................
 	bThreshWithOpenCV = true;
 	gui.add(switchVoiceControl.set("lidar control", true));
