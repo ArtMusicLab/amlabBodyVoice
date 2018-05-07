@@ -1,0 +1,10 @@
+ofxATK
+ofxAudioAnalyzer
+ofxAudioDecoder
+ofxCv
+ofxFft
+ofxGui
+ofxMidi
+ofxOpenCv
+ofxRPlidar-master
+ofxSyphon
